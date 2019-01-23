@@ -1,3 +1,3 @@
-cobra
+cobra==0.11.3
 pyeql
 matplotlib
